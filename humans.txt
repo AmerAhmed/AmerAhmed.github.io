@@ -1,0 +1,16 @@
+/* TEAM */
+	Owner: Amer Ahmed
+	Contact: Amer [at] AmerAhmed.github.io
+	Twitter: @amer_ahmed345
+	Github:  @AmerAhmed
+	From: Kalmar, Sweden
+	Location: Kalmar, Sweden
+
+/* THANKS */
+	Education: https://lnu.se/student/
+
+/* SITE */
+	Last update: 2019/11/17 
+	Standards: HTML5, CSS3 JavaScript
+	Components: Disqus
+	Software: Jekyll, Sass, Vscode, Sublime Text 3, Photoshop, IIlustrator
